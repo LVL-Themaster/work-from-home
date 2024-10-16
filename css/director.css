@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+body
+{
+	font-family: "Oxanium", sans-serif;
+}
+header
+{
+	background: url("../img/Banner 1.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.btn1
+{
+	padding: 46 174 0;
+}
